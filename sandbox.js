@@ -28,3 +28,5 @@ function div(num1,num2)
 }
 let result4=add(6,3);
 console.log(result4);
+//feature new
+console.log("hello bhai");
