@@ -1,5 +1,8 @@
-let age=25;
-function age (){
-    console.log("hi");
-}
+
 console.log("hello");
+function add(num1,num2)
+{
+    return num1+ num2;
+}
+let result=add(2,3);
+console.log(result);
