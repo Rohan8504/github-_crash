@@ -13,3 +13,4 @@ function diff(num1,num2)
 }
 let result2=add(2,3);
 console.log(result2);
+console.log("hello");
