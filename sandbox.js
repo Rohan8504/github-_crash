@@ -3,3 +3,6 @@ function age (){
     console.log("hi");
 }
 console.log("hello");
+function agge(){
+    console.log("age");
+}
