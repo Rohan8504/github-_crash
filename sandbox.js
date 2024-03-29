@@ -21,3 +21,10 @@ function mul(num1,num2)
 }
 let result3=add(2,3);
 console.log(result3);
+//faeture div
+function div(num1,num2)
+{
+    return num1/ num2;
+}
+let result4=add(6,3);
+console.log(result4);
